@@ -51,6 +51,15 @@ But this needs help from people who actually know their field and can make a fai
 - ?
 - [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Researchgate]]
 
+** Neuroscience
+
+*** Sujaya Neupane
+- Montreal Neurological Institute, McGill University, Montreal, Canada
+- Computational and systems neuroscience
+- Primate neurophysiology 
+- [[https://scholar.google.ca/citations?user=6e-EKsUAAAAJ&hl=en][Google scholar]]
+
+
 ** Molecular Biology and Genetics
 
 *** [[https://biology.mit.edu/people/uttam_rajbhandary][Uttam Rajbhadary]]
